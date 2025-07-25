@@ -1,3 +1,1 @@
-text from IDEA;O
-text from GITHub;
-text from merge commit
+change text
